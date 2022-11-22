@@ -1,0 +1,1 @@
+﻿insert into Complaint  values('nbn','0','3','Complaint Received','16 November 2022')
